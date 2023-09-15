@@ -2,7 +2,7 @@
 
 Welcome to the Drum Kit website! This interactive web application allows you to play various drum sounds by simply clicking or tapping on the virtual drum pads. It's a fun and engaging way to explore rhythm and percussion.
 
-![Drum Kit Screenshot](https://github.com/supriya811106/Drum-Kit/assets/89856408/21271d8d-8a27-4492-ad4b-a1e9e2607b92))
+![Drum Kit Screenshot](https://github.com/supriya811106/Drum-Kit/assets/89856408/21271d8d-8a27-4492-ad4b-a1e9e2607b92)
 
 ## 🌍 [Live Demo](https://play-drum-kit1.netlify.app/)
 
