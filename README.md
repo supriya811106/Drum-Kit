@@ -31,12 +31,8 @@ Click the link above to experience the live version of the Drum Kit website.
 
 ### Running the Website Locally
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/supriya811106/Drum-Kit/
 
-git clone https://github.com/supriya811106/Drum-Kit/
-
-2. Navigate to the directory:
-
-cd directory-name-here
+2. Navigate to the directory: cd directory-name-here
 
 3. Open `index.html` in your favorite browser.
