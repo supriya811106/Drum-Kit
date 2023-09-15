@@ -26,3 +26,17 @@ Click the link above to experience the live version of the Drum Kit website.
 2. Click or tap on the drum pads to trigger the drum sounds.
 3. Experiment with different rhythms and beats.
 4. Enjoy your drumming experience!
+
+## 🛠️ Setup
+
+### Running the Website Locally
+
+1. Clone the repository:
+\```bash
+git clone https://github.com/supriya811106/Drum-Kit/
+\```
+2. Navigate to the directory:
+\```bash
+cd directory-name-here
+\```
+3. Open `index.html` in your favorite browser.
