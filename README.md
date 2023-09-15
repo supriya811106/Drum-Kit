@@ -1,4 +1,3 @@
-```markdown
 # 🥁 Drum Kit Website 
 
 Welcome to the Drum Kit website! This interactive web application allows you to play various drum sounds by simply clicking or tapping on the virtual drum pads. It's a fun and engaging way to explore rhythm and percussion.
@@ -33,12 +32,11 @@ Click the link above to experience the live version of the Drum Kit website.
 ### Running the Website Locally
 
 1. Clone the repository:
-\```bash
+
 git clone https://github.com/supriya811106/Drum-Kit/
-\```
+
 2. Navigate to the directory:
-\```bash
+
 cd directory-name-here
-\```
+
 3. Open `index.html` in your favorite browser.
-```
